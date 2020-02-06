@@ -7,9 +7,11 @@
 
 
 
-## SQL Assignment
+## SQL Assignment (Estimated time: 2hrs)
 
 Objectives: demonstrate ability to perform SQL queries
+
+Note: This dataset is an abridged version of the [Bureau of Transportation Statistics records](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time).
 
 Setup:
 - Unzip 'flight-dataset.zip'
