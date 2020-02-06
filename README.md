@@ -1,9 +1,9 @@
 # WEconnect Senior Data Analyst Technical Take Home Problem
 
 **Submission Overview:**
-1. Fork this repo
+1. Clone this repo 
 2. Complete the SQL and Python/R assignments
-3. Submit a link to the forked repo with your results in the form of .sql, .ipynb and/or .Rmd scripts
+3. Submit a link to the cloned repo with your results in the form of .sql, .ipynb and/or .Rmd scripts
 
 This assignment uses the 'flight-dataset.zip' for all parts where the expectation is that candidates answer similar questions across scripting languages (with a focus on tabular results with SQL and visualization with Python and R).
 
